@@ -1,4 +1,4 @@
-Hi 👋 My name is Juan Manuel Suárez
+Hola 👋 Mi nombre es Juan Manuel Suárez
 ===================================
 
 Instructor SIG
@@ -6,8 +6,8 @@ Instructor SIG
 
 Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica y candidato a Máster en Ciencias de la Información y las Comunicaciones con énfasis en Geomática de la Universidad Distrital Francisco José de Caldas. Cuento con 10 años de experiencia en el manejo de sistemas de información geográfica, análisis espaciales, bases de datos y diferentes lenguajes de programación. Gusto por tecnologías como Machine Learning, Realidad Aumentada y 3D, todo con un enfoque geoespacial.
 
-* 🌍  I'm based in Bogotá - Colombia
-* ✉️  You can contact me at [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
+* 🌍  Vivo en Bogotá - Colombia
+* ✉️  Me puedes contactar en [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
 
 <a href="https://www.twitter.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/IngJuanMaSuarez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
