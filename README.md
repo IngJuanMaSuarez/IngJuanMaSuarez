@@ -9,7 +9,7 @@ Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográ
 * 🌍  Vivo en Bogotá - Colombia
 * ✉️  Puedes contactarme en [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
 * 🚀  Actualmente trabajo en [Esri Colombia](http://www.esri.co/es-co/nosotros/sobre-esri/inicio)
-* 🤝  Estoy abierto a colaborar en programación orientada en herramientas SIG
+* 🤝  Estoy abierto a colaborar en programación orientada en herramientas GIS
 * ⚡  Especialista GIS, profesor, intento de músico y entrenador Pokémon. Hago #MapasParaDummies 🗺. Developer en progreso. Founder: @GeoARColombia 🧑‍💻.
 
 <a href="https://www.twitter.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img
