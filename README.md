@@ -51,10 +51,6 @@ src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=f
 
 <b>Mis Estadisticas de GitHub</b>
 
-<a href="http://www.github.com/Test"><img src="https://github-readme-stats.vercel.app/api?username=Test&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Test's GitHub stats" /></a>
+<a href="http://www.github.com/IngJuanMaSuarez"><img src="https://github-readme-stats.vercel.app/api?username=Test&show_icons=true&hide=issues,&count_private=true&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Mis Estadisticas de Github" /></a>
 
-<a href="http://www.github.com/IngJuanMaSuarez"><img src="https://github-readme-stats.vercel.app/api?username=IngJuanMaSuarez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IngJuanMaSuarez's GitHub stats" /></a>
-
-<a href="http://www.github.com/IngJuanMaSuarez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IngJuanMaSuarez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngJuanMaSuarez&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="http://www.github.com/IngJuanMaSuarez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Test&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
