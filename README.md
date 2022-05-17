@@ -55,4 +55,4 @@ src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=f
 
 <a href="http://www.github.com/IngJuanMaSuarez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IngJuanMaSuarez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngJuanMaSuarez&theme=garden&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngJuanMaSuarez&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
