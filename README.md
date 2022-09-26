@@ -4,7 +4,7 @@ Hola 👋 Mi nombre es Juan Manuel Suárez
 Instructor SIG
 --------------
 
-Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica y candidato a Máster en Ciencias de la Información y las Comunicaciones con énfasis en Geomática de la Universidad Distrital Francisco José de Caldas. Cuento con 10 años de experiencia en el manejo de sistemas de información geográfica, análisis espaciales, bases de datos y diferentes lenguajes de programación. Gusto por tecnologías como Machine Learning, Realidad Aumentada y 3D, todo con un enfoque geoespacial.
+Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática. Nivel intermedio en francés e inglés. Instructor certificado con experiencia laboral en el despliegue, manejo y administración de ArcGIS Enterprise, servidores, soluciones corporativas, computación en la nube y diferentes lenguajes de programación. Habilidades en el manejo de sistemas de información geográfica, análisis espaciales y bases de datos. Gusto por tecnologías como Machine Learning, Realidad Aumentada y 3D, todo con un enfoque geoespacial.
 
 * 🌍  Vivo en Bogotá - Colombia
 * ✉️  Puedes contactarme en [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
