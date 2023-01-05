@@ -1,9 +1,7 @@
-Hola 👋 Mi nombre es Juan Manuel Suárez
+Hola, mi nombre es Juan Manuel Suárez 👋
 ===================================
 
-### Instructor SIG
-
---------------
+### GeoCositas para Dummies, Programación Orientada en Herramientas SIG
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
 
@@ -20,7 +18,7 @@ src="https://img.shields.io/twitter/follow/IngJuanMaSuarez?logo=twitter&style=fo
 /></a><a href="https://www.github.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Habilidades
+### Tecnologías:
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -45,9 +43,13 @@ src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Redes Sociales
+### Encuéntrame en:
 
 <p align="left"> <a href="https://www.github.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 ### Estadísticas
 
