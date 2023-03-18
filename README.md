@@ -15,15 +15,7 @@ Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográ
 * ✉️  Puedes contactarme en [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
 * 🚀  Actualmente trabajo en [Esri Colombia](http://www.esri.co/es-co/nosotros/sobre-esri/inicio)
 * 🤝  Estoy abierto a colaborar en programación orientada en herramientas GIS
-* ⚡  Especialista GIS, profesor, intento de músico y entrenador Pokémon. Hago #MapasParaDummies 🗺. Developer en progreso. Founder: @GeoARColombia 🧑‍💻.
-
-<a href="https://www.twitter.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/IngJuanMaSuarez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-**Contador de Visitas**
-![Visitor Count](https://profile-counter.glitch.me/{IngJuanMaSuarez}/count.svg)
+* ⚡  Instructor SIG en @EsriColombia | Ing. Catastral y Geodesta, Esp. SIG y MSc Geomática | Profesor, Developer y Entrenador Pokémon | Hago Mapas 🗺 🧑‍💻
 
 ### Tecnologías:
 
@@ -60,4 +52,5 @@ src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=f
 
 <a href="http://www.github.com/IngJuanMaSuarez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IngJuanMaSuarez&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngJuanMaSuarez&layout=compact)](https://github.com/IngJuanMaSuarez/github-readme-stats)
+### Contador de Visitas
+![Visitor Count](https://profile-counter.glitch.me/{IngJuanMaSuarez}/count.svg)
