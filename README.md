@@ -6,8 +6,6 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 ![https://github.com/IngJuanMaSuarez](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)](https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA)
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)]([https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA](https://www.youtube.com/c/IngJuanMaSuarez/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/IngJuanMaSuarez?style=social)](https://twitter.com/IngJuanMaSuarez)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/IngJuanMaSuarez/)
 
@@ -51,10 +49,6 @@ src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=f
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-### Encuéntrame en:
-
-<p align="left"> <a href="https://www.github.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
