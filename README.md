@@ -1,10 +1,11 @@
 Hola, mi nombre es Juan Manuel Suárez 👋
 ===================================
 
-### GeoCositas para Dummies, Programación Orientada en Herramientas SIG
+### GeoCositas para Dummies, Programación Orientada en Herramientas SIG <img src="https://buildtheearth.net/assets/img/site-logo-animated.gif" width="20">
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
 ![https://github.com/IngJuanMaSuarez](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCV3Wo1EDp--JZTwf0TcFpg?style=social)](https://www.youtube.com/channel/UCCV3Wo1EDp--JZTwf0TcFpg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)]([https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA](https://www.youtube.com/c/IngJuanMaSuarez/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/IngJuanMaSuarez?style=social)](https://twitter.com/IngJuanMaSuarez)
@@ -22,6 +23,9 @@ Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográ
 src="https://img.shields.io/twitter/follow/IngJuanMaSuarez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/IngJuanMaSuarez" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IngJuanMaSuarez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+**Contador de Visitas**
+![Visitor Count](https://profile-counter.glitch.me/{IngJuanMaSuarez}/count.svg)
 
 ### Tecnologías:
 
