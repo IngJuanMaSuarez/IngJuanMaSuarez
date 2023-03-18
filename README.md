@@ -4,6 +4,11 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 ### GeoCositas para Dummies, Programación Orientada en Herramientas SIG
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
+![https://github.com/IngJuanMaSuarez](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)]([https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA](https://www.youtube.com/c/IngJuanMaSuarez/))
+[![Twitter Follow](https://img.shields.io/twitter/follow/IngJuanMaSuarez?style=social)](https://twitter.com/IngJuanMaSuarez)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/IngJuanMaSuarez/)
 
 Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática. Nivel intermedio en francés e inglés. Instructor certificado con experiencia laboral en el despliegue, manejo y administración de ArcGIS Enterprise, servidores, soluciones corporativas, computación en la nube y diferentes lenguajes de programación. Habilidades en el manejo de sistemas de información geográfica, análisis espaciales y bases de datos. Gusto por tecnologías como Machine Learning, Realidad Aumentada y 3D, todo con un enfoque geoespacial.
 
