@@ -3,7 +3,7 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 
 ### GeoCositas para Dummies, Programación Orientada en Herramientas SIG <img src="https://buildtheearth.net/assets/img/site-logo-animated.gif" width="20">
 
-![https://github.com/IngJuanMaSuarez](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.jpg)
+![https://github.com/IngJuanMaSuarez](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)](https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IngJuanMaSuarez?style=social)](https://twitter.com/IngJuanMaSuarez)
