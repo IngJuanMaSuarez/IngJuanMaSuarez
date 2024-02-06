@@ -11,11 +11,11 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 
 Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática. Nivel intermedio en francés e inglés. Instructor certificado con experiencia laboral en el despliegue, manejo y administración de ArcGIS Enterprise, servidores, soluciones corporativas, computación en la nube y diferentes lenguajes de programación. Habilidades en el manejo de sistemas de información geográfica, análisis espaciales y bases de datos. Gusto por tecnologías como Machine Learning, Realidad Aumentada y 3D, todo con un enfoque geoespacial.
 
-* 🌍  Vivo en Bogotá - Colombia
+* 🌍  Vivo en Ibagué - Colombia
 * ✉️  Puedes contactarme en [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
 * 🚀  Actualmente trabajo en [Esri Colombia](http://www.esri.co/es-co/nosotros/sobre-esri/inicio)
 * 🤝  Estoy abierto a colaborar en programación orientada en herramientas GIS
-* ⚡  Instructor SIG en @EsriColombia | Ing. Catastral y Geodesta, Esp. SIG y MSc Geomática | Profesor, Developer y Entrenador Pokémon | Hago Mapas 🗺 🧑‍💻
+* ⚡  Líder de Entrenamiento en @EsriColombia | Ing. Catastral y Geodesta, Esp. SIG y MSc Geomática | Profesor, Developer y Entrenador Pokémon | Hago Mapas 🗺 🧑‍💻
 
 ### Tecnologías:
 
