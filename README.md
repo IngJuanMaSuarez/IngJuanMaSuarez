@@ -9,13 +9,17 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/IngJuanMaSuarez/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IngJuanMaSuarez?style=social)](https://x.com/IngJuanMaSuarez)
 
-Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática. Nivel intermedio en francés e inglés. Instructor certificado con experiencia laboral en el despliegue, manejo y administración de ArcGIS Enterprise, servidores, soluciones corporativas, computación en la nube y diferentes lenguajes de programación. Habilidades en el manejo de sistemas de información geográfica, análisis espaciales y bases de datos. Gusto por tecnologías como Machine Learning, Realidad Aumentada y 3D, todo con un enfoque geoespacial.
+👋 ¡Hola! bienvenido(a) a mi perfil de Github, permíteme contarte un poco sobre mi:
 
-* 🌍  Vivo en Ibagué - Colombia
-* ✉️  Puedes contactarme en [ingjuanmasuarez@gmail.com](mailto:ingjuanmasuarez@gmail.com)
-* 🚀  Actualmente trabajo en [Esri Colombia](http://www.esri.co/es-co/nosotros/sobre-esri/inicio)
-* 🤝  Estoy abierto a colaborar en programación orientada en herramientas GIS
-* ⚡  Líder de Entrenamiento en @EsriColombia | Ing. Catastral y Geodesta, Esp. SIG y MSc Geomática | Profesor, Developer y Entrenador Pokémon | Hago Mapas 🗺 🧑‍💻
+Soy Líder de Entrenamiento en Esri Colombia, Ecuador y Panamá. Tengo experiencia en el despliegue, manejo y administración de ArcGIS Enterprise, servidores, soluciones corporativas, computación en la nube y diferentes lenguajes de programación.
+
+👨‍🎓 Soy Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática y estoy haciendo una especialización en Pedagogía. También tengo certificación CompTIA, ArcGIS Desktop Professional, ArcGIS Enterprise Professional y ArcGIS Utility Network. 
+📊 Me encantan los sistemas de información geográfica, hacer análisis espaciales y aplicar ciencia de datos para crear modelos que permitan estudiar variables espaciales.
+👨‍🏫 Soy una persona autodidacta y curiosa. Me gusta enseñar, compartir y divulgar conocimiento de calidad y explicado de una manera fácil y práctica
+💻 Programar es otro de mis grandes gustos. Java, Python, R, C# y JavaScript son algunos de los lenguajes que he usado. Además también me gusta enseñarlos.
+🌏 Manejo tecnologías emergentes como Machine Learning, Realidad Aumentada, 3D, Internet de las Cosas y Big Data. Todo con un enfoque geoespacial.
+📚 Hablo francés y tengo buenas bases de portugués e inglés. Ah, y me gusta Pokémon. 
+📲 Sígueme en LinkedIn o en mi canal de YouTube, me puedes buscar como IngJuanMaSuarez. O si prefieres, también me encuentras con ese usuario en las demás redes
 
 ### Tecnologías:
 
