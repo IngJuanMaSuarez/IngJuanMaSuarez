@@ -5,7 +5,7 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 
 ![https://github.com/IngJuanMaSuarez](https://raw.githubusercontent.com/IngJuanMaSuarez/IngJuanMaSuarez/main/ingjuanmasuarez_banner.png)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)](https://www.youtube.com/@GeoCositasParaDummies)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4CNTt2aXvMKmxNXQFtTrAA?style=social)](https://www.youtube.com/@IngJuanMaSuarez)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/IngJuanMaSuarez/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IngJuanMaSuarez?style=social)](https://x.com/IngJuanMaSuarez)
 
