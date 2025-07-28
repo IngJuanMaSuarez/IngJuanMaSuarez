@@ -13,13 +13,13 @@ Hola, mi nombre es Juan Manuel Suárez 👋
 
 Soy Líder de Entrenamiento en Esri Colombia, Ecuador y Panamá. Tengo experiencia en el despliegue, manejo y administración de ArcGIS Enterprise, servidores, soluciones corporativas, computación en la nube y diferentes lenguajes de programación.
 
-👨‍🎓 Soy Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática y estoy haciendo una especialización en Pedagogía. También tengo certificación CompTIA, ArcGIS Desktop Professional, ArcGIS Enterprise Professional y ArcGIS Utility Network. 
-📊 Me encantan los sistemas de información geográfica, hacer análisis espaciales y aplicar ciencia de datos para crear modelos que permitan estudiar variables espaciales.
-👨‍🏫 Soy una persona autodidacta y curiosa. Me gusta enseñar, compartir y divulgar conocimiento de calidad y explicado de una manera fácil y práctica
-💻 Programar es otro de mis grandes gustos. Java, Python, R, C# y JavaScript son algunos de los lenguajes que he usado. Además también me gusta enseñarlos.
-🌏 Manejo tecnologías emergentes como Machine Learning, Realidad Aumentada, 3D, Internet de las Cosas y Big Data. Todo con un enfoque geoespacial.
-📚 Hablo francés y tengo buenas bases de portugués e inglés. Ah, y me gusta Pokémon. 
-📲 Sígueme en LinkedIn o en mi canal de YouTube, me puedes buscar como IngJuanMaSuarez. O si prefieres, también me encuentras con ese usuario en las demás redes
+<p>👨‍🎓 Soy Ingeniero Catastral y Geodesta, Especialista en Sistemas de Información Geográfica, Magister en Ciencias de la Información y las Comunicaciones con Énfasis en Geomática y estoy haciendo una especialización en Pedagogía. También tengo certificación CompTIA, ArcGIS Desktop Professional, ArcGIS Enterprise Professional y ArcGIS Utility Network. </p>
+<p>📊 Me encantan los sistemas de información geográfica, hacer análisis espaciales y aplicar ciencia de datos para crear modelos que permitan estudiar variables espaciales.</p>
+<p>👨‍🏫 Soy una persona autodidacta y curiosa. Me gusta enseñar, compartir y divulgar conocimiento de calidad y explicado de una manera fácil y práctica</p>
+<p>💻 Programar es otro de mis grandes gustos. Java, Python, R, C# y JavaScript son algunos de los lenguajes que he usado. Además también me gusta enseñarlos.</p>
+<p>🌏 Manejo tecnologías emergentes como Machine Learning, Realidad Aumentada, 3D, Internet de las Cosas y Big Data. Todo con un enfoque geoespacial.</p>
+<p>📚 Hablo francés y tengo buenas bases de portugués e inglés. Ah, y me gusta Pokémon. </p>
+<p>📲 Sígueme en LinkedIn o en mi canal de YouTube, me puedes buscar como IngJuanMaSuarez. O si prefieres, también me encuentras con ese usuario en las demás redes</p>
 
 ### Tecnologías:
 
